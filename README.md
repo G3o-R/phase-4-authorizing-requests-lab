@@ -57,3 +57,5 @@ Your goal is to add the following functionality to the
 - [Action Controller Overview: Filters][filters]
 
 [filters]: http://guides.rubyonrails.org/action_controller_overview.html#filters
+
+https://github.com/G3o-R/phase-4-authorizing-requests-lab
